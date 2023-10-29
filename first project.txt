@@ -1,0 +1,13 @@
+HTML:
+
+<head>
+<body>
+<h1>Hello World</h1>
+<p>This is My first project in github</p>
+</head>
+</body>
+
+Python:
+
+a="HELLO WORLD"
+print(a)
